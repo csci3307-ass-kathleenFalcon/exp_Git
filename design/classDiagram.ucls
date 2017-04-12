@@ -4,7 +4,7 @@
   router="FAN">  
   <class id="1" language="java" name="com.mycompany.expGit.chapter1.MyClass" project="exp2_Git" 
     file="/exp2_Git/src/com/mycompany/expGit/chapter1/MyClass.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="150" width="151" x="320" y="144"/>    
+    <position height="150" width="151" x="279" y="143"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      

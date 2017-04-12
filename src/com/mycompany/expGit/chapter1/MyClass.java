@@ -5,7 +5,6 @@ package com.mycompany.expGit.chapter1;
 
 /**
  * @author Kathleen Falcon
- *
  */
 public class MyClass {
 	private String name;
